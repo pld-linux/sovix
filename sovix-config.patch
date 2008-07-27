@@ -1,0 +1,11 @@
+--- dotsovix/public.inc~	2008-07-27 12:20:25.000000000 +0200
++++ dotsovix/public.inc	2008-07-27 12:20:46.000000000 +0200
+@@ -24,7 +24,7 @@
+   array('sovix__array__public_variables__array__variable' => "sovix__select_menu_header_mode", 'sovix__array__public_variables__array__value' => "y"), # y, n
+   array('sovix__array__public_variables__array__variable' => "sovix__theme", 'sovix__array__public_variables__array__value' => "blue_dark"), # <colorname>, random
+   array('sovix__array__public_variables__array__variable' => "sovix__tool_bar_mode", 'sovix__array__public_variables__array__value' => "y"), # y, n
+-  array('sovix__array__public_variables__array__variable' => "sovix__url__include_extension", 'sovix__array__public_variables__array__value' => "n"), # y, n
++  array('sovix__array__public_variables__array__variable' => "sovix__url__include_extension", 'sovix__array__public_variables__array__value' => "y"), # y, n
+   array('sovix__array__public_variables__array__variable' => "sovix__use_w3c_recommended_css_file", 'sovix__array__public_variables__array__value' => "y"), # y, n
+   array('sovix__array__public_variables__array__variable' => "sovix__window_border_mode", 'sovix__array__public_variables__array__value' => "y"), # y, n
+   array('sovix__array__public_variables__array__variable' => "sovix__screen_mode", 'sovix__array__public_variables__array__value' => "normal"), # normal, fullscreen
