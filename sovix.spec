@@ -1,12 +1,12 @@
 Summary:	PHP-based, extensible, customizable, semantic website revision system
 Summary(pl.UTF-8):	Oparty na PHP, rozszerzalny, konfigurowalny, semantyczny system kontroli rewizji
 Name:		sovix
-Version:	0.0.1.5
+Version:	0.0.1.7
 Release:	0.1
 License:	AGPL v3+
 Group:		Applications/WWW
 Source0:	http://ftp.gnu.org/gnu/sovix/%{name}-%{version}.tar.gz
-# Source0-md5:	3fa4b29de3ab2290e8a4a2115b88288b
+# Source0-md5:	26f3d9c42c9446e6c2a4f49ce28e8f38
 Patch0:		%{name}-config.patch
 URL:		http://www.sovix.org/
 BuildRequires:	rpmbuild(macros) >= 1.268
