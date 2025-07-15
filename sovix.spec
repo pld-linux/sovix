@@ -54,7 +54,7 @@ Niektóre z cech GNU Sovix:
 
 %prep
 %setup -q
-%patch0 -p0
+%patch -P0 -p0
 
 # fix path
 for i in $(find . -name "*.php" -o -name "*.inc");
